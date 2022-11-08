@@ -1,0 +1,28 @@
+.results-group-icon {
+  width: 26px;
+  height: 26px;
+}
+
+.group_title {
+  text-decoration: none !important;
+  color: #007bff !important;
+  background: transparent;
+  transition: 0.5s;
+}
+.group_title:hover {
+  text-decoration: underline !important;
+  color: #0056b3 !important;
+}
+.results-list {
+  border-radius: 0.5rem;
+  border: 1px solid #e6e6e6;
+}
+.mr-1 {
+  margin-right: 10px;
+}
+.mr-2 {
+  margin-right: 5px;
+}
+a {
+  text-decoration: none !important;
+}
